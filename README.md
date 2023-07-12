@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi my name is Juan Manuel Rodriguez Quintero 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanQuintero1511)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **JuanQuintero1511/JuanQuintero1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
