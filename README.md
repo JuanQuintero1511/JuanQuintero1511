@@ -1,9 +1,9 @@
-### Hello, my name is Juan Manuel Rodríguez Quintero, and I'm a junior-level full stack developer. I am passionate about programming and the digital world. My enthusiasm for creating innovative solutions and tackling technological challenges drives me to constantly expand my skills and knowledge. With a balanced focus on front-end and back-end development, I can build high-performance web applications and appealing user interfaces. With a curious and results-oriented mindset, I am always seeking new ways to enhance user experience and code efficiency. My goal is to grow professionally in a collaborative environment where I can contribute my technical skills and positive attitude to drive team success and contribute to the company's growth. I am excited to showcase what I can do!
+### Hello, my name is Juan Manuel Rodríguez Quintero, and I'm a junior-level full-stack developer. I am passionate about programming and the digital world. My enthusiasm for creating innovative solutions and tackling technological challenges drives me to constantly expand my skills and knowledge. With a balanced focus on front-end and back-end development, I can build high-performance web applications and appealing user interfaces. With a curious and results-oriented mindset, I am always seeking new ways to enhance user experience and code efficiency. My goal is to grow professionally in a collaborative environment where I can contribute my technical skills and positive attitude to drive team success and contribute to the company's growth. I am excited to showcase what I can do!
 
 My conts:
 
 Email: rodriguezquinteroj1511@gmail.com
-[Linkedin:] (https://www.linkedin.com/in/juan-quintero-674075268/?locale=en_US)
+Linkedin: (https://www.linkedin.com/in/juan-quintero-674075268/?locale=en_US)
 <!--
 **JuanQuintero1511/JuanQuintero1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
