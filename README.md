@@ -1,39 +1,54 @@
-## Hello, my name is Juan Quintero.
+# 👋 Hola, soy Juan Manuel Rodríguez Quintero  
 
-### And I'm a junior-level full-stack developer. I am passionate about programming and the digital world. My enthusiasm for creating innovative solutions and tackling technological challenges drives me to constantly expand my skills and knowledge. With a balanced focus on front-end and back-end development, I can build high-performance web applications and appealing user interfaces. With a curious and results-oriented mindset, I am always seeking new ways to enhance user experience and code efficiency. My goal is to grow professionally in a collaborative environment where I can contribute my technical skills and positive attitude to drive team success and contribute to the company's growth. I am excited to showcase what I can do!
+💻 **Ingeniero de Software** | 📊 **Trader con 4+ años de experiencia**  
+Apasionado por unir **tecnología y finanzas**, creando herramientas que automaticen procesos, analicen datos de mercado y potencien proyectos **fintech**.  
 
-## About Me
+---
 
-- 😄 Pronouns: Mopri or Quintero
-- 🎓 Graduated from: Universidad De Caldas (B.S. Mechatronics Engineering) and Soy Henry (BootCamp)
-- 🌍 Location: Colombia - Manizales
-- 💼 Currently working on: Real Estate Project.
-- 🌱 Currently learning: Java, Python, and Design Patterns.
+## 🚀 Tecnologías que manejo  
 
-## My Interests
+### 🔹 Lenguajes y frameworks financieros  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 
-I'm passionate about exploring and working with a variety of technologies, including:
+### 🔹 Librerías para trading y datos  
+- **Pandas / NumPy** → análisis de datos financieros.  
+- **Matplotlib / Plotly** → visualización avanzada de mercados.  
+- **TA-Lib / Backtrader** → backtesting y trading algorítmico.  
 
-- 💻 Web Development and Applications
-- 🤖 Artificial Intelligence and Machine Learning
-- 📊 Data Science
-- 📱 Mobile App Development
-- 🌐 Cloud Technologies
+### 🔹 Bases de datos  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-## Featured Projects
+### 🔹 Infraestructura  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
-Here you'll find a selection of projects I've worked on:
+---
 
-1. DevPool https://github.com/JuanQuintero1511/DevPoolSoft: A web application with a focus on social networking, its main function is job searching and forums.
+## 📊 Experiencia destacada  
+✔️ Desarrollo de **bots de trading** con integración a APIs de brokers y exchanges.  
+✔️ Creación de **dashboards financieros en tiempo real** para análisis de mercado.  
+✔️ Implementación de **modelos de backtesting** para validar estrategias.  
+✔️ Diseño de **plataformas fintech** seguras y escalables.  
 
-2. Pokemon API https://github.com/JuanQuintero1511/Project_henry_PI: Creation and management of an API with a database, its main function is creating Pokémon cards.
+---
 
-## Contact
+## 🎯 ¿Qué me diferencia?  
+Mi perfil doble como **programador y trader activo** me permite comprender las necesidades reales del mercado financiero y traducirlas en soluciones tecnológicas prácticas, confiables y con visión estratégica.  
 
-I'd love to connect with you! You can find me on various online platforms:
+---
 
-- 📧 Email: rodriguezquinteroj1511@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-quintero-674075268/
-- 🌐 Website: https://web-portfolio-phi-sable.vercel.app/.
+## 📈 Mis estadísticas en GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanQuintero1511&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanQuintero1511&layout=compact&theme=radical)  
 
-Feel free to contact me if you have any questions, suggestions, or if you simply want to chat about technology. Thank you for visiting my GitHub portfolio!
+---
+
+## 🤝 Conectemos  
+📩 Escríbeme para que hablemos de cómo puedo aportar a tus proyectos.  
