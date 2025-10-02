@@ -1,54 +1,54 @@
-# 👋 Hola, soy Juan Manuel Rodríguez Quintero  
+# 👋 Hi, I'm Juan Manuel Rodríguez  
 
-💻 **Ingeniero de Software** | 📊 **Trader con 4+ años de experiencia**  
-Apasionado por unir **tecnología y finanzas**, creando herramientas que automaticen procesos, analicen datos de mercado y potencien proyectos **fintech**.  
-
----
-
-## 🚀 Tecnologías que manejo  
-
-### 🔹 Lenguajes y frameworks financieros  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-
-### 🔹 Librerías para trading y datos  
-- **Pandas / NumPy** → análisis de datos financieros.  
-- **Matplotlib / Plotly** → visualización avanzada de mercados.  
-- **TA-Lib / Backtrader** → backtesting y trading algorítmico.  
-
-### 🔹 Bases de datos  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### 🔹 Infraestructura  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+💻 **Software Engineer & Trader** with 3+ years of experience in **Python, JavaScript, Node.js, React, SQL Server, and Power BI**.  
+🚀 Skilled in building **B2B software, fullstack applications, APIs, and data-driven dashboards**.  
+📊 Passionate about **fintech solutions** and applying technology to financial markets.  
 
 ---
 
-## 📊 Experiencia destacada  
-✔️ Desarrollo de **bots de trading** con integración a APIs de brokers y exchanges.  
-✔️ Creación de **dashboards financieros en tiempo real** para análisis de mercado.  
-✔️ Implementación de **modelos de backtesting** para validar estrategias.  
-✔️ Diseño de **plataformas fintech** seguras y escalables.  
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks & Libraries:** Node.js, Express, React, Redux, Django (basics)  
+- **Databases:** SQL Server, MySQL  
+- **Business Intelligence:** Power BI, Data Modeling, Dashboard Development  
+- **Cloud & DevOps:** AWS (S3, EC2), Git/GitHub, CI/CD Workflows  
+- **Other:** ETL with Python, API Integrations, Data Processing  
 
 ---
 
-## 🎯 ¿Qué me diferencia?  
-Mi perfil doble como **programador y trader activo** me permite comprender las necesidades reales del mercado financiero y traducirlas en soluciones tecnológicas prácticas, confiables y con visión estratégica.  
+## 📌 Featured Projects  
+
+### [📈 Trading Data API](https://github.com/tuusuario/trading-api)  
+RESTful & WebSocket API for real-time financial data, built with Node.js and SQL Server.  
+- Real-time streaming of financial market data  
+- Historical queries with optimized SQL schemas  
+- Deployed on AWS EC2 with Swagger documentation  
 
 ---
 
-## 📈 Mis estadísticas en GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanQuintero1511&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanQuintero1511&layout=compact&theme=radical)  
+### [✅ Task Management System](https://github.com/tuusuario/task-manager)  
+Full-stack web app using React + Node.js + SQL Server.  
+- Authentication & role-based permissions  
+- Task assignments and collaborative features  
+- Deployed on Vercel (frontend) & Render (backend) with CI/CD  
 
 ---
 
-## 🤝 Conectemos  
-📩 Escríbeme para que hablemos de cómo puedo aportar a tus proyectos.  
+### [📊 Sales & Analytics Dashboard](https://github.com/tuusuario/sales-dashboard)  
+Data pipeline and BI dashboards simulating enterprise reporting.  
+- ETL with Python to clean and process raw data  
+- SQL Server as database layer  
+- Power BI dashboards for KPIs, sales trends & forecasting  
+
+---
+
+## 🎓 Education & Certifications
+- 🎓 B.Eng. in Software Engineering – *Jala University* (Full Scholarship)  
+- 🎓 B.Eng. in Mechatronics Engineering – *Universidad de Caldas* (In Progress)  
+- 🎓 Technical Degree in Systems – *Unitécnica*  
+- 📜 Certifications in progress: **AWS Cloud Practitioner**, **Microsoft PL-900**  
+
+---
+
+## 🌍 Let's Connect
+- 📧 Email: juanrodriguezq1511@gmail.com  
